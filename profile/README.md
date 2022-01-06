@@ -6,6 +6,7 @@
 * MVVM Pattern
 * Dagger2
 * Retrofit2
+* OkHttp3
 * Lottie
 * Glide
 * Navigation
