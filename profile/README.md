@@ -14,7 +14,16 @@ SNS에서 대회나 이벤트를 열고 막상 상품을 수여할 때가 되면
 | Language     | Kotlin         | Node js            |        |
 | Develop Tool | Android Studio | Visual Studio Code | Figma  |
 
+## 🛠️ Tech Stack
+- Android <br/>
+`DataBinding` `RxJava` `Dagger Hilt` `Retrofit` `OkHttp` `Glide` `Navigation` `BillingClient` <br/>`MVVM Pattern` `Repository Pattern`
+- Backend<br/>
+`Node js` `AWS`
+
 ## 📷 Screenshot
+<p align="center">
+  <img src="/photo/video.gif" width="230" height="400"/>
+</p>
 <p align="center">
   <img src="/photo/login.png" width="230" height="400"/>&emsp;
   <img src="/photo/register.png" width="210" height="400"/>&emsp;
