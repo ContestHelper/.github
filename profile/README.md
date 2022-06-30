@@ -21,21 +21,21 @@ SNS에서 대회나 이벤트를 열고 막상 상품을 수여할 때가 되면
 `Node js` `AWS`
 
 ## 📷 Screenshot
-<p align="center">
+<p align="left">
   <img src="/photo/video.gif" width="230" height="400"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="/photo/login.png" width="230" height="400"/>&emsp;
   <img src="/photo/register.png" width="210" height="400"/>&emsp;
-  <img src="/photo/contestDetail.png" width="230" height="400"/>&emsp;
-  <img src="/photo/joinContest.png" width="230" height="400"/>
+  <img src="/photo/contestDetail.png" width="230" height="400"/>
 </p>
-<p align="center">
+<p align="left">
+  <img src="/photo/joinContest.png" width="230" height="400"/>&emsp;
   <img src="/photo/addContest.png" width="230" height="400"/>&emsp;
   <img src="/photo/calendar.png" width="230" height="400"/>&emsp;
-  <img src="/photo/charge1.png" width="230" height="400"/>&emsp;
-  <img src="/photo/charge2.png" width="230" height="400"/>
 </p>
-<p align="center">
+<p align="left">
+  <img src="/photo/charge1.png" width="230" height="400"/>&emsp;
+  <img src="/photo/charge2.png" width="230" height="400"/>&emsp;
   <img src="/photo/contestResult.png" width="230" height="400"/>
 </p>
